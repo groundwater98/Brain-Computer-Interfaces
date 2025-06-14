@@ -20,3 +20,9 @@ python3 main.py
 ## 결과 확인
 실행 결과는 result.txt에 저장됩니다.
 
+## Github 실행 안내
+만약 압축 파일 내 코드로 실행이 되지 않는 경우, 아래의 Github 저장소를 clone하여
+이 README의 안내에 따라 코드를 실행해 주세요.
+
+git clone https://github.com/groundwater98/Brain-Computer-Interfaces.git
+cd Brain-Computer-Interfaces
