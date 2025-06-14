@@ -4,9 +4,19 @@
 
 ---
 
+## Miniconda 설치
+### 1) 다운로드
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+
+### 2) 설치
+bash Miniconda3-latest-Linux-x86_64.sh
+
+### 3) 버전 확인
+설치 후, 새 터미널에서 아래 명령어로 정상 설치 여부를 확인하세요.
+conda --version
+
 ## Conda 환경 생성
 conda env create -f environment.yml
-
 
 ## 가상 환경 활성화
 conda activate brain_interface
