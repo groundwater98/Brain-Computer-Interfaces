@@ -7,8 +7,9 @@
 ## Miniconda 설치
 * 기존에 conda가 설치되어 있다면 이 과정은 생략해도 됩니다.
 ### 1) 다운로드
+```bash
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
-
+```
 ### 2) 설치
 bash Miniconda3-latest-Linux-x86_64.sh
 
